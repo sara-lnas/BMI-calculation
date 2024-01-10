@@ -18,5 +18,5 @@ Esta é uma calculadora simples que permite calcular o Índice de Massa Corporal
 <br>
  
 ###
-**Link do site:** <i>[clique aqui](https://lilian-carvalho25.github.io/Calculadora/) <br>
+**Link do site:** <i>[clique aqui](https://bmi-calculation-opal.vercel.app/) <br>
 
