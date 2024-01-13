@@ -19,6 +19,5 @@ Esta é uma calculadora simples que permite calcular o Índice de Massa Corporal
 </div>
 <br>
  
-###
-**Link do site:** <i>[clique aqui](https://bmi-calculation-opal.vercel.app/) <br>
+
 
