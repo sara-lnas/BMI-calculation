@@ -3,6 +3,7 @@ Esta é uma calculadora simples que permite calcular o Índice de Massa Corporal
  
 ## ⚙ Funcionalidades 
 - Calcule o Índice de Massa Corporal (IMC) <br> <br>
+- Adicione a sua altura e peso para calcular.
 
  ![print](https://github.com/sara-lnas/BMI-calculation/assets/123497334/3917d785-77f6-47c2-bd9e-c76013ec1434)
  
@@ -19,5 +20,7 @@ Esta é uma calculadora simples que permite calcular o Índice de Massa Corporal
 </div>
 <br>
  
+ ###
 
+**Link do site:** <i>[clique aqui](https://sara-lnas.github.io/stopwatch/) <br>
 
