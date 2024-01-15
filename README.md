@@ -22,5 +22,5 @@ Esta é uma calculadora simples que permite calcular o Índice de Massa Corporal
  
  ###
 
-**Link do site:** <i>[clique aqui](https://sara-lnas.github.io/stopwatch/) <br>
+**Link do site:** <i>[clique aqui](https://sara-lnas.github.io/BMI-calculation/) <br>
 
